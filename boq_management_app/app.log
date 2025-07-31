@@ -1,0 +1,14 @@
+2025-07-19 23:34:07,360 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-19 23:34:55,302 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-19 23:36:14,207 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-19 23:38:23,067 - __main__ - ERROR - Column mapping error: Missing required columns: ['boq_ref', 'description', 'unit', 'boq_qty', 'rate']
+2025-07-19 23:38:23,068 - __main__ - ERROR - File processing error: Missing required columns: ['boq_ref', 'description', 'unit', 'boq_qty', 'rate']
+2025-07-19 23:43:55,800 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-19 23:44:25,414 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-19 23:46:43,265 - __main__ - ERROR - Validation error: 'balance_to_deliver'
+2025-07-21 17:31:59,713 - __main__ - INFO - Database tables initialized successfully
+2025-07-21 17:33:09,990 - __main__ - INFO - Database tables initialized successfully
+2025-07-21 17:38:17,443 - __main__ - INFO - Database tables initialized successfully
+2025-07-21 17:42:10,904 - __main__ - INFO - Database tables initialized successfully
+2025-07-21 17:53:04,359 - __main__ - INFO - Database tables initialized successfully
+2025-07-21 18:15:50,128 - __main__ - INFO - Database tables initialized successfully
